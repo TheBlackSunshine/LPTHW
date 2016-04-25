@@ -1,0 +1,3 @@
+print "Hi Adam"
+print "This is you from the past"
+print "Sup!"
