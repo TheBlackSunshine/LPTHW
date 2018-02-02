@@ -1,5 +1,7 @@
 ## This is a collection of the exercises in each chapter of the book "Learn Python the Hard Way" by Zed Shaw.
 
+It also includes exercises form the appendix "Command Line Crach Course" (CLCC).
+
 I read the third edition of the book, covering Python 2.7.
 
 The "exercises" mostly just typing code from the book (Zed makes it very clear there is to be no copying and pasting...) and running it, although some require the odd modification.
